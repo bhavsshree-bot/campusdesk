@@ -15,7 +15,7 @@ Python, FastAPI, React, vanilla JavaScript widget, ChromaDB, SQLite, Gemini, Fig
 - Embeddable chat widget for any website
 
 ## Architecture
-(diagram coming in Step 2)
+![Architecture](docs/architecture.png)
 
 ## Setup
 (coming later)
